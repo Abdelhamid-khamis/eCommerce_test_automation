@@ -16,7 +16,7 @@ Hi, I'm Hameed! a **software test engineer intern** @ITWorx Education.
 
 ## Features to be tested
 
-- ongoing
+- ongoing..
 -
 
 
