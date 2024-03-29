@@ -1,0 +1,22 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                    Test Method: 'TestPackage.TestClass.test'                                                    
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://www.google.com/" @29-03-2024 16:18:08.0745 PM
+[ReportManager] Initial URL: "about:blank" @29-03-2024 16:18:08.0821 PM
+[ReportManager] Navigate to url "https://www.google.com/". @29-03-2024 16:18:10.0825 PM
+[ReportManager] Get current window title "Google". @29-03-2024 16:18:10.0870 PM
+[ReportManager] Expected "Google", and actual "Google" @29-03-2024 16:18:10.0871 PM
+[ReportManager] Verification "ValidateBrowserAttribute" PASSED. Expected "Value Should be 'Google' for the 'title' attribute" and Actual "Google". Comparison Type "EQUALS". Validation Type "POSITIVE". @29-03-2024 16:18:11.0979 PM
+[ReportManager] Verification Passed: the Browser title is equal to "Google". @29-03-2024 16:18:11.0980 PM
+[ReportManager] Successfully created attachment 'Screenshot - ValidateBrowserAttribute_passed_1711721891162' @29-03-2024 16:18:11.0982 PM
+[ReportManager] the Browser title is equal to "Google". @29-03-2024 16:18:11.0986 PM
+[ReportManager] Text cleared Using Native Clear @29-03-2024 16:18:12.0217 PM
+[ReportManager] Type "SHAFT_Engine" into "بحث". @29-03-2024 16:18:12.0407 PM
+[ReportManager] Key press "ENTER" against "بحث". @29-03-2024 16:18:12.0787 PM
+[ReportManager] Get text "حوالى 1,720,000 نتيجة (0.16 ثانية)" from "By.id: result-stats". @29-03-2024 16:18:16.0030 PM
+[ReportManager] Expected "", and actual "حوالى 1,720,000 نتيجة (0.16 ثانية) " @29-03-2024 16:18:16.0030 PM
+[ReportManager] Successfully created attachment 'Screenshot - AssertElementAttribute_passed_1711721896655' @29-03-2024 16:18:17.0086 PM
+[ReportManager] Check that result stats is not empty @29-03-2024 16:18:17.0088 PM
