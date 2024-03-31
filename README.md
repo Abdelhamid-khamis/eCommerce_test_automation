@@ -14,11 +14,15 @@ Hi, I'm Hameed! a **software test engineer intern** @ITWorx Education.
 ## Website to be Tested
 ![App Screenshot](https://i.postimg.cc/TYp9b5GS/website.png)
 
-## Features to be tested
+## Test Cases
 
-- ongoing..
+- TC01: Register User
+- 
+
+## Features
+
+- Handling Google Alerts
 -
-
 
 ## Authors
 

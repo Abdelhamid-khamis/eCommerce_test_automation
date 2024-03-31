@@ -1,0 +1,7 @@
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @31-03-2024 07:25:44.0809 AM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: [], prefs: {download.default_directory: C:\Users\ELSHEAKH\IdeaProje..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @31-03-2024 07:25:44.0849 AM
+[ReportManager] Attempting to run locally on: "Windows | Chrome". @31-03-2024 07:25:44.0851 AM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @31-03-2024 07:25:44.0852 AM
+[ReportManager] Successfully Opened: "Windows | Chrome". @31-03-2024 07:25:48.0591 AM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/simpleJSON.json". @31-03-2024 07:25:48.0612 AM
+[ReportManager] Successfully created attachment 'Test Data - JSON' @31-03-2024 07:25:48.0615 AM
