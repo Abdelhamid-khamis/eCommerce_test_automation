@@ -94,7 +94,7 @@ public class RegisterUser {
         driver.element().verifyThat(By.cssSelector("h2[data-qa='account-deleted'] > b")).text().
                 equalsIgnoringCaseSensitivity("ACCOUNT DELETED!").perform();
 
-        driver.element().click(By.cssSelector("[data-qa=continue-button]"));
+        driver.element().click(By.cssSelector("[data-qa=continue-button]")) ;
 
 
     }
