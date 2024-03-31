@@ -1,0 +1,78 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                                  Test Method: 'TestPackage.RegisterUser.test'                                                  
+                                                  Test Description: 'Register User Test - GUI'                                                  
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Target URL: "https://automationexercise.com/" @31-03-2024 08:00:42.0689 AM
+[ReportManager] Initial URL: "about:blank" @31-03-2024 08:00:42.0736 AM
+[ReportManager] Navigate to url "https://automationexercise.com/". @31-03-2024 08:00:46.0895 AM
+[ReportManager] Get current window title "Automation Exercise". @31-03-2024 08:00:46.0931 AM
+[ReportManager] Expected "Automation Exercise", and actual "Automation Exercise" @31-03-2024 08:00:46.0932 AM
+[ReportManager] Verification "ValidateBrowserAttribute" PASSED. Expected "Value Should be 'Automation Exercise' for the 'title' attribute" and Actual "Automation Exercise". Comparison Type "EQUALS". Validation Type "POSITIVE". @31-03-2024 08:00:51.0639 AM
+[ReportManager] Verification Passed: the Browser title is equal to "Automation Exercise". @31-03-2024 08:00:51.0640 AM
+[ReportManager] Successfully created attachment 'Screenshot - ValidateBrowserAttribute_passed_1711864849227' @31-03-2024 08:00:51.0656 AM
+[ReportManager] the Browser title is equal to "Automation Exercise". @31-03-2024 08:00:51.0662 AM
+[ReportManager] Moved the mouse to the middle of the element. @31-03-2024 08:00:51.0944 AM
+[ReportManager] Click "By.className: fa-lock". @31-03-2024 08:00:53.0424 AM
+[ReportManager] Get text "New User Signup!
+Signup" from "By.className: signup-form". @31-03-2024 08:00:53.0615 AM
+[ReportManager] Expected "New User Signup!
+Signup", and actual "New User Signup!
+Signup" @31-03-2024 08:00:53.0616 AM
+[ReportManager] Successfully created attachment 'Screenshot - VerifyElementAttribute_passed_1711864854499' @31-03-2024 08:00:54.0738 AM
+[ReportManager] the element located by "By.className: signup-form" text is equal to "New User Signup!
+Signup". @31-03-2024 08:00:54.0739 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:00:54.0947 AM
+[ReportManager] Type "Hameed" into "Name". @31-03-2024 08:00:55.0021 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:00:55.0178 AM
+[ReportManager] Type "abdelhameedkhames@yahoo.com" into "Email Address". @31-03-2024 08:00:55.0281 AM
+[ReportManager] Moved the mouse to the middle of the element. @31-03-2024 08:00:55.0461 AM
+[ReportManager] Click "Signup". @31-03-2024 08:00:56.0354 AM
+[ReportManager] Get text "ENTER ACCOUNT INFORMATION" from "ENTER ACCOUNT INFORMATION". @31-03-2024 08:00:56.0680 AM
+[ReportManager] Expected "ENTER ACCOUNT INFORMATION", and actual "ENTER ACCOUNT INFORMATION" @31-03-2024 08:00:56.0681 AM
+[ReportManager] Successfully created attachment 'Screenshot - VerifyElementAttribute_passed_1711864857306' @31-03-2024 08:00:57.0603 AM
+[ReportManager] the element located by "By.xpath: (//*[@class="title text-center"])[1]" text is equal to "ENTER ACCOUNT INFORMATION". @31-03-2024 08:00:57.0604 AM
+[ReportManager] Moved the mouse to the middle of the element. @31-03-2024 08:00:57.0827 AM
+[ReportManager] Click "Mr.". @31-03-2024 08:00:57.0887 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:00:58.0026 AM
+[ReportManager] Type "Windows.2000" into "Password *". @31-03-2024 08:00:58.0096 AM
+[ReportManager] Click "20". @31-03-2024 08:00:58.0222 AM
+[ReportManager] Click "September". @31-03-2024 08:00:58.0371 AM
+[ReportManager] Click "1995". @31-03-2024 08:00:58.0481 AM
+[ReportManager] Moved the mouse to the middle of the element. @31-03-2024 08:00:58.0686 AM
+[ReportManager] Click "Sign up for our newsletter!". @31-03-2024 08:00:58.0737 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:00:58.0908 AM
+[ReportManager] Type "Abdelhamid" into "First name *". @31-03-2024 08:00:58.0978 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:00:59.0128 AM
+[ReportManager] Type "Khamis" into "Last name *". @31-03-2024 08:00:59.0191 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:00:59.0346 AM
+[ReportManager] Type "Almukatam, Cairo" into "Address * (Street address, P.O. Box, Company name, etc.)". @31-03-2024 08:00:59.0420 AM
+[ReportManager] Click "Singapore". @31-03-2024 08:00:59.0542 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:00:59.0712 AM
+[ReportManager] Type "Cairo" into "State *". @31-03-2024 08:00:59.0780 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:00:59.0937 AM
+[ReportManager] Type "anyState" into "City * Zipcode *". @31-03-2024 08:01:00.0002 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:01:00.0161 AM
+[ReportManager] Type "25486" into "By.cssSelector: [data-qa=zipcode]". @31-03-2024 08:01:00.0216 AM
+[ReportManager] Text cleared Using Native Clear @31-03-2024 08:01:00.0361 AM
+[ReportManager] Type "00201204984543" into "Mobile Number *". @31-03-2024 08:01:00.0430 AM
+[ReportManager] Moved the mouse to the middle of the element. @31-03-2024 08:01:00.0632 AM
+[ReportManager] Click "Create Account". @31-03-2024 08:01:02.0861 AM
+[ReportManager] Perform navigation action "Navigate REFRESH to". @31-03-2024 08:01:04.0201 AM
+[ReportManager] Expected condition failed: waiting for com.shaft.gui.element.internal.ElementActionsHelper$$Lambda/0x000001dc5872f1b8@1263664f (tried for 60 second(s) with 100 milliseconds interval) || javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression By.cssSelector(\"[data-qa=account-created]\") because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'By.cssSelector(\"[data-qa=account-created]\")' is not a valid XPath expression."} @31-03-2024 08:02:04.0267 AM
+[ReportManager] Expected condition failed: waiting for com.shaft.gui.element.internal.ElementActionsHelper$$Lambda/0x000001dc5872f1b8@11f30fc6 (tried for 60 second(s) with 100 milliseconds interval) || javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression By.cssSelector(\"[data-qa=account-created]\") because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string 'By.cssSelector(\"[data-qa=account-created]\")' is not a valid XPath expression."} @31-03-2024 08:03:04.0285 AM
+[ReportManager] Get text "ACCOUNT CREATED!" from "ACCOUNT CREATED!". @31-03-2024 08:03:04.0373 AM
+[ReportManager] Expected "ACCOUNT CREATED!", and actual "ACCOUNT CREATED!" @31-03-2024 08:03:04.0374 AM
+[ReportManager] Successfully created attachment 'Screenshot - VerifyElementAttribute_passed_1711864984686' @31-03-2024 08:03:04.0828 AM
+[ReportManager] the element located by "By.cssSelector: [data-qa=account-created]" text is equal to "ACCOUNT CREATED!". @31-03-2024 08:03:04.0829 AM
+[ReportManager] Moved the mouse to the middle of the element. @31-03-2024 08:03:05.0005 AM
+[ReportManager] Click "Continue". @31-03-2024 08:03:05.0080 AM
+[ReportManager] Perform navigation action "Navigate REFRESH to". @31-03-2024 08:03:06.0847 AM
+[ReportManager] Expected condition failed: waiting for com.shaft.gui.element.internal.ElementActionsHelper$$Lambda/0x000001dc5872f1b8@763df8f3 (tried for 60 second(s) with 100 milliseconds interval) || no such element: Unable to locate element: {"method":"css selector","selector":"a[href='/delete_account']"} @31-03-2024 08:04:06.0886 AM
+[ReportManager] Failed to Click "By.cssSelector: a[href='/delete_account']". Root cause: "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"css selector","selector":"a[href='/delete_account']"}" @31-03-2024 08:04:07.0227 AM
+[ReportManager] Successfully created attachment 'Screenshot - Click_failed_1711865047032' @31-03-2024 08:04:07.0229 AM
+[ReportManager] Successfully created attachment 'Element Action Exception - Click - Stacktrace' @31-03-2024 08:04:07.0232 AM
+[ReportManager] Moved the mouse to the middle of the element. @31-03-2024 08:04:07.0400 AM
+[ReportManager] Click "Continue". @31-03-2024 08:04:10.0510 AM
