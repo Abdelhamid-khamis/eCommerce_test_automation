@@ -42,7 +42,7 @@
   </parameter>
   <parameter>
     <key>sun.java.command</key>
-    <value>com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket55654 @w@C:\Users\ELSHEAKH\AppData\Local\Temp\idea_working_dirs_testng.tmp -temp C:\Users\ELSHEAKH\AppData\Local\Temp\idea_testng.tmp</value>
+    <value>com.intellij.rt.testng.RemoteTestNGStarter -usedefaultlisteners false -socket62979 @w@C:\Users\ELSHEAKH\AppData\Local\Temp\idea_working_dirs_testng.tmp -temp C:\Users\ELSHEAKH\AppData\Local\Temp\idea_testng.tmp</value>
   </parameter>
   <parameter>
     <key>jdk.debug</key>
@@ -63,10 +63,6 @@
   <parameter>
     <key>java.home</key>
     <value>C:\Users\ELSHEAKH\.jdks\openjdk-22</value>
-  </parameter>
-  <parameter>
-    <key>testng.dtd.http</key>
-    <value>true</value>
   </parameter>
   <parameter>
     <key>java.vm.specification.vendor</key>
@@ -151,6 +147,10 @@
   <parameter>
     <key>cucumber.features</key>
     <value>src/test/resources</value>
+  </parameter>
+  <parameter>
+    <key>appender.console.filter.threshold.level</key>
+    <value>info</value>
   </parameter>
   <parameter>
     <key>appender.console.filter.threshold.level</key>
@@ -285,8 +285,16 @@
     <value>[%-5level] %d{yyyy-MM-dd HH:mm:ss.SSS} [%t] %c{1} - %msg%n</value>
   </parameter>
   <parameter>
+    <key>targetOperatingSystem</key>
+    <value>windows</value>
+  </parameter>
+  <parameter>
     <key>user.name</key>
     <value>ELSHEAKH</value>
+  </parameter>
+  <parameter>
+    <key>allure.testng.hide.disabled.tests</key>
+    <value>true</value>
   </parameter>
   <parameter>
     <key>java.class.path</key>

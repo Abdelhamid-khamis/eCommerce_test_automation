@@ -1,0 +1,12 @@
+{
+  "name": "Hameed",
+  "email": "abdelhameedkhamis@yahoo.com",
+  "password": "Windows.20000",
+  "announcementTitle" : "Automated Announcement",
+  "announcementMsg" : "Hi There,\n\nThis is a counter: ",
+  "address": "Almukatam, Cairo",
+  "state": "anyState",
+  "city": "Cairo",
+  "zipCode": "25486",
+  "mobileNumber" : "00201204984543"
+}
